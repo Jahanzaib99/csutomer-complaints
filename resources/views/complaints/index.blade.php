@@ -15,7 +15,6 @@
                 <li><a class="update-status">UNASSIGNED</a></li>
             </ul>
           </div>
-           <button class="btn btn-primary" id="update-status">Update status</button>
         <table class="table table-bordered " id="yajra-datatable">
             <thead>
                 <tr>
